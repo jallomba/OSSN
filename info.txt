@@ -1,3 +1,0 @@
-This component was written for use with OSSN V.5 (Open Source-Social Network)
-
-This component allows users to search for text that was used in a post that was written to the wall or to a group. Adds a "view post" button to each returned result. Adds a "Posts" link to the search menu.
